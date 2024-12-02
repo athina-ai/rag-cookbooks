@@ -1,7 +1,8 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue)](https://www.linkedin.com/company/athina-ai/posts/?feedView=all)
-[![Twitter](https://img.shields.io/twitter/follow/AthinaAI?label=Follow%20@AthinaAI&style=social)](https://x.com/AthinaAI)
-
-> Highlights
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue)](https://www.linkedin.com/company/athina-ai/posts/?feedView=all)&nbsp;
+[![Twitter](https://img.shields.io/twitter/follow/AthinaAI?label=Follow%20@AthinaAI&style=social)](https://x.com/AthinaAI)&nbsp;
+[![Share](https://img.shields.io/badge/share-000000?logo=x&logoColor=white)](https://x.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/athina-ai/rag-cookbooks)&nbsp;
+[![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/athina-ai/rag-cookbooks)&nbsp;
+[![Share](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/athina-ai/rag-cookbooks)
 
 # Advanced RAG Cookbooks
 Welcome to the comprehensive collection of advanced Retrieval-Augmented Generation (RAG) techniques.
