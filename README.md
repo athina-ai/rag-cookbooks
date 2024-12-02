@@ -74,7 +74,6 @@ Once inside the cookbooks directory, follow the detailed implementation for each
 
 ## Creators + Contributors👨🏻‍💻
 
-[![Contributors](https://contrib.rocks/image?repo=athina-ai/cookbooks)](https://github.com/athina-ai/cookbooks/graphs/contributors)
 
 ## Contributing🤝
 If you have a new technique or improvement to suggest, we welcome contributions from the community!
