@@ -48,7 +48,7 @@ Next, navigate to the project directory:
 ```bash
 cd cookbooks
 ```
-Once inside the project directory, follow the detailed implementation for each technique.
+Once inside the cookbooks directory, follow the detailed implementation for each technique.
 
 ## Creators + Contributors
 
