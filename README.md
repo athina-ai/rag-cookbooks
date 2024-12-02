@@ -4,6 +4,8 @@
 [![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/athina-ai/rag-cookbooks)&nbsp;
 [![Share](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/athina-ai/rag-cookbooks)
 
+>If you find this repository helpful, please consider giving it a star⭐️
+
 # Advanced RAG Cookbooks👨🏻‍💻
 Welcome to the comprehensive collection of advanced Retrieval-Augmented Generation (RAG) techniques.
 
