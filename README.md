@@ -37,6 +37,9 @@ Here are the details of all 10 RAG techniques covered in this repository.
 | Self RAG     | LangChain, LangGraph, FAISS, Athina AI                    | Reflects on retrieved data to ensure accurate and complete responses.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athina-ai/cookbooks/blob/main/self_rag.ipynb) |
 | Adaptive RAG      | LangChain, LangGraph, FAISS, Athina AI                    | Adjusts retrieval methods based on query type, using indexed data or web search.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athina-ai/cookbooks/blob/main/adaptive_rag.ipynb) |
 
+## Demo
+A quick demo of how each notebook works:
+
 https://github.com/user-attachments/assets/c6f17961-40a1-4cca-ab1f-2c8fa3d71a7a
 
 ## Getting Started
