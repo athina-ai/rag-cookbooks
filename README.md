@@ -4,15 +4,15 @@
 [![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/athina-ai/rag-cookbooks)&nbsp;
 [![Share](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/athina-ai/rag-cookbooks)
 
-# Advanced RAG Cookbooks
+# Advanced RAG Cookbooks👨🏻‍💻
 Welcome to the comprehensive collection of advanced Retrieval-Augmented Generation (RAG) techniques.
 
-## Introduction
+## Introduction🚀
 RAG is a popular method that improves accuracy and relevance by finding the right information from reliable sources and transforming it into useful answers. This repository covers the most effective advanced RAG techniques with clear implementations and explanations.
 
 The main goal of this repository is to provide a helpful resource for researchers and developers looking to use advanced RAG techniques in their projects. Building these techniques from scratch takes time, and finding proper evaluation methods can be challenging. This repository simplifies the process by offering ready-to-use implementations and guidance on how to evaluate them.
 
-## Introduction to RAG
+## Introduction to RAG💡
 Large Language Models are trained on a fixed dataset, which limits their ability to handle private or recent information. They can sometimes "hallucinate", providing incorrect yet believable answers. Fine-tuning can help but it is expensive and not ideal for retraining again and again on new data. The Retrieval-Augmented Generation (RAG) framework addresses this issue by using external documents to improve the LLM's responses through in-context learning. RAG ensures that the information provided by the LLM is not only contextually relevant but also accurate and up-to-date.
 There are four main components in RAG:
 
@@ -29,14 +29,14 @@ There are four main components in RAG:
 
 These components of RAG allow the model to access up-to-date, accurate information and generate responses based on external knowledge. However, to ensure RAG systems are functioning effectively, it’s essential to evaluate their performance.
 
-## RAG Evaluation
+## RAG Evaluation📊
 Evaluating RAG applications is important for understanding how well these pipelines work. We can see how effectively they combine information retrieval with generative models by checking their accuracy and relevance. This evaluation helps improve RAG applications in tasks like text summarization, chatbots, and question-answering. It also identifies areas for improvement, ensuring that these systems provide trustworthy responses as information changes. Overall, effective evaluation helps optimize performance and builds confidence in RAG applications for real-world use. These notebooks contain an end-to-end RAG implementation + RAG evaluation part in Athina AI.
 
 ![evals diagram](https://github.com/user-attachments/assets/65c2b5af-a931-40c5-b006-87567aef019f)
 
 
 
-## RAG Techniques
+## RAG Techniques⚙️
 Here are the details of all 10 RAG techniques covered in this repository.
 
 | Technique                    | Tools                        | Description                                                       | Notebooks |
@@ -52,12 +52,12 @@ Here are the details of all 10 RAG techniques covered in this repository.
 | Self RAG     | LangChain, LangGraph, FAISS, Athina AI                    | Reflects on retrieved data to ensure accurate and complete responses.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athina-ai/rag-cookbooks/blob/main/self_rag.ipynb) |
 | Adaptive RAG      | LangChain, LangGraph, FAISS, Athina AI                    | Adjusts retrieval methods based on query type, using indexed data or web search.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athina-ai/rag-cookbooks/blob/main/adaptive_rag.ipynb) |
 
-## Demo
+## Demo🎬
 A quick demo of how each notebook works:
 
 https://github.com/user-attachments/assets/c6f17961-40a1-4cca-ab1f-2c8fa3d71a7a
 
-## Getting Started
+## Getting Started🛠️
 First, clone this repository by using the following command:
 ```bash
 git clone https://github.com/athina-ai/cookbooks.git
@@ -68,14 +68,14 @@ cd cookbooks
 ```
 Once inside the cookbooks directory, follow the detailed implementation for each technique.
 
-## Creators + Contributors
+## Creators + Contributors👨🏻‍💻
 
 [![Contributors](https://contrib.rocks/image?repo=athina-ai/cookbooks)](https://github.com/athina-ai/cookbooks/graphs/contributors)
 
-## Contributing
+## Contributing🫱🏻‍🫲
 If you have a new technique or improvement to suggest, we welcome contributions from the community!
 
-## License
+## License📝
 This project is licensed under [MIT License](LICENSE)
 
 
