@@ -39,7 +39,20 @@ Here are the details of all 10 RAG techniques covered in this repository.
 
 https://github.com/user-attachments/assets/c6f17961-40a1-4cca-ab1f-2c8fa3d71a7a
 
+## Getting Started
+First, clone this repository by using the following command:
+```bash
+git clone https://github.com/athina-ai/cookbooks.git
+```
+Next, navigate to the project directory:
+```bash
+cd cookbooks
+```
+Once inside the project directory, follow the detailed implementation for each technique.
 
+## Creators + Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=athina-ai/cookbooks)](https://github.com/athina-ai/cookbooks/graphs/contributors)
 
 
 
