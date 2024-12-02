@@ -27,6 +27,8 @@ Here are the details of all 10 RAG techniques covered in this repository.
 | Technique                    | Tools                        | Description                                                       | Notebooks |
 |---------------------------------|------------------------------|--------------------------------------------------------------|-----------|
 | Naive RAG      | LangChain, Pinecone, Athina AI                    | Combines retrieved data with LLMs for simple and effective responses.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athina-ai/cookbooks/blob/main/naive_rag.ipynb) |
+| Hybrid RAG      | LangChain, Chromadb, Athina AI                    | Combines vector search and traditional methods like BM25 for better information retrieval.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athina-ai/cookbooks/blob/main/hybrid_rag.ipynb) |
+| Hyde RAG      | LangChain, Weaviate, Athina AI                    | Creates hypothetical document embeddings to find relevant information for a query.| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/athina-ai/cookbooks/blob/main/hyde_rag.ipynb) |
 
 https://github.com/user-attachments/assets/c6f17961-40a1-4cca-ab1f-2c8fa3d71a7a
 
