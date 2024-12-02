@@ -54,6 +54,9 @@ Once inside the project directory, follow the detailed implementation for each t
 
 [![Contributors](https://contrib.rocks/image?repo=athina-ai/cookbooks)](https://github.com/athina-ai/cookbooks/graphs/contributors)
 
+## License
+This project is licensed under [MIT License](LICENSE)
+
 
 
 
