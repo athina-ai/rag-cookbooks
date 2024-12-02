@@ -1,5 +1,16 @@
-# RAG Cookbooks
-This repository covers the top 10 effective RAG techniques, along with an evaluation part in Athina AI.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue)](https://www.linkedin.com/company/athina-ai/posts/?feedView=all)
+[![Twitter](https://img.shields.io/twitter/follow/AthinaAI?label=Follow%20@AthinaAI&style=social)](https://x.com/AthinaAI)
+
+> Highlights
+
+# Advanced RAG Cookbooks
+Welcome to the comprehensive collection of advanced Retrieval-Augmented Generation (RAG) techniques.
+
+## Introduction
+RAG is a popular method that improves accuracy and relevance by finding the right information from reliable sources and transforming it into useful answers. This repository covers the most effective advanced RAG techniques with clear implementations and explanations.
+
+The main goal of this repository is to provide a helpful resource for researchers and developers looking to use advanced RAG techniques in their projects. Building these techniques from scratch takes time, and finding proper evaluation methods can be challenging. This repository simplifies the process by offering ready-to-use implementations and guidance on how to evaluate them.
+
 ## Introduction to RAG
 Large Language Models are trained on a fixed dataset, which limits their ability to handle private or recent information. They can sometimes "hallucinate", providing incorrect yet believable answers. Fine-tuning can help but it is expensive and not ideal for retraining again and again on new data. The Retrieval-Augmented Generation (RAG) framework addresses this issue by using external documents to improve the LLM's responses through in-context learning. RAG ensures that the information provided by the LLM is not only contextually relevant but also accurate and up-to-date.
 There are four main components in RAG:
